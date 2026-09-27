@@ -1,0 +1,16 @@
+{
+  "name": "orbit-notes",
+  "version": "1.2.0",
+  "description": "A tiny notes API. Sample repo for demoing Ground Control.",
+  "type": "module",
+  "main": "src/app.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node --watch src/app.js",
+    "start": "node src/app.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
