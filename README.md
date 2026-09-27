@@ -16,7 +16,7 @@ Copy `.env.example` to `.env`, then start the dev server:
 npm run dev
 ```
 
-The server starts from `src/server.js` and listens on http://localhost:3000.
+The server starts from `src/server.js` and listens on http://localhost:3000. <!-- Demo line for a GitHub suggestion screenshot -->
 
 ## Configuration
 
